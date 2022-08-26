@@ -15,7 +15,7 @@
 
 ## xp-m2-imc-teste-pratico
 
-## 🏷️ Detalhes do projeto
+## 🏷️ Detalhes do projeto do módulo 2.
 
 ### Nesse projeto do segundo módulo do bootcamp da xp ficamos responsável pro fazer um teste de IMC, e usá-lo para responder as questões avaliativa do módulo 2.
 
